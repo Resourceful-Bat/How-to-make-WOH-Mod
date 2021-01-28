@@ -9,22 +9,22 @@ World of Horror Modding allows users to add extra events, characters, etc. to th
 
 ## Editing Your Document
 Fill in the appropriate parameters  
-* name - Input event's displayed name         (string)
-* author - Input your name/username           (string)
-* contact - Not visible in game. Is meant to let the creator of the game know who you are in case they would like to add your event to the game (string)
-* about - Text that explains your event when you hover over it in-game (string, keep it short)
-* flavor - The text that shows up when you encounter the event during a playthrough (string, it auto-wraps but add # for a new line)
-* location - The place where you event occurs (string, use these: downtown, school, hospital, seaside, forest, mansion, village, apartment, ithotu, athyola, gozu, atorasu)
-* options - The amount of options available to the player (string, "1", "2" or "3")
+* **name** - Input event's displayed name         (string)
+* **author** - Input your name/username           (string)
+* **contact** - Not visible in game. Is meant to let the creator of the game know who you are in case they would like to add your event to the game (string)
+* **about** - Text that explains your event when you hover over it in-game (string, keep it short)
+* **flavor** - The text that shows up when you encounter the event during a playthrough (string, it auto-wraps but add # for a new line)
+* **location** - The place where you event occurs (string, use these: downtown, school, hospital, seaside, forest, mansion, village, apartment, ithotu, athyola, gozu, atorasu)
+* **options** - The amount of options available to the player (string, "1", "2" or "3")
 
-* image = Path to the image file (string, relative, leave "" for a generic location-based image)
+* **image** = Path to the image file (string, relative, leave "" for a generic location-based image)
 
 
-* optiona/optionb/optionc - Your options. Keep is short because of space on screen (string)
-* testa/testb/testc - The stat checked when an option is chosen (string, use these: strength, dexterity, perception, knowledge, charisma, luck or story for no test and auto-success. You can also use funds1 and funds2, these will check if player has at least 1/2 FUNDS and will auto-deduct them if the check passes)
-* successa/failurea/etc - Text result of an optionz (string)
-* winprizea/failprizea/etc - Result of an option (string, currently: stamina, reason, doom, experience, funds, injury, curse, ally, item)
-* winnumbera/failnumbera/etc - The number by which the win/failprize is affected. (string,  leave "" for injury, curse and ally (random effect), ITEM NAME for item (for example "STEAK KNIFE")
+* **optiona/optionb/optionc** - Your options. Keep is short because of space on screen (string)
+* **testa/testb/testc** - The stat checked when an option is chosen (string, use these: strength, dexterity, perception, knowledge, charisma, luck or story for no test and auto-success. You can also use funds1 and funds2, these will check if player has at least 1/2 FUNDS and will auto-deduct them if the check passes)
+* **successa/failurea/etc** - Text result of an optionz (string)
+* **winprizea/failprizea/etc** - Result of an option (string, currently: stamina, reason, doom, experience, funds, injury, curse, ally, item)
+* **winnumbera/failnumbera/etc** - The number by which the win/failprize is affected. (string,  leave "" for injury, curse and ally (random effect), ITEM NAME for item (for example "STEAK KNIFE")
 
 
 ## Saving Your File

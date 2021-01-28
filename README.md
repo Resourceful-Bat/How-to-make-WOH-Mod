@@ -17,7 +17,7 @@ World of Horror Modding allows users to add extra events, characters, etc. to th
 
 ## Where to Save
 
-* For a windows user, follow this path to get to where you will save your mods.
+*  For a windows user, follow this path to get to where you will save your mods.
 *  C:\Users\ADMIN\AppData\Local\wohgame
 *  In place of ADMIN should be your username.
 *  Now that you are in the "wohgame" folder, create a new folder called "custom". This will house all of the mods you are going to make.

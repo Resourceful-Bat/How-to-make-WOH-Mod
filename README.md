@@ -30,7 +30,8 @@ Fill in the appropriate parameters
 
 ## Saving Your File
 
-* **It is important to save the file as a ".ito" file instead of a ".txt" file.** Your mod won't load at all if you do not change the file extension to ".ito" . Don't worry about editing the file later. You can still edit the file later if the file is a ".ito" file.
+* **It is important to save your text file as a ".ito" file instead of a ".txt" file.** Your mod won't load at all if you do not change the file extension to ".ito" . Don't worry about editing the file later. You can still edit the file later if the file is a ".ito" file.
+* **Also make sure that all of your items are in the same place**
 
 ## Where to Save
 
@@ -38,6 +39,7 @@ Fill in the appropriate parameters
 *  C:\Users\ADMIN\AppData\Local\wohgame  ( In place of ADMIN should be your username.)
 *  Now that you are in the "wohgame" folder, create a new folder called "custom". This will house all of the mods you are going to make.  
 ![Parameters](/Step.png)
+* If you want to be neat, I would separate your mods into different folders. This way you do not get confused when working on multiple mods.
 
 # And You're Done!
 

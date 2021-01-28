@@ -9,8 +9,8 @@ World of Horror Modding allows users to add extra events, characters, etc. to th
 
 ## Editing Your Document
 
-* Fill in the appropriate parameters
-* ![Parameters](/Step.png)
+* Fill in the appropriate parameters  
+![Parameters](/Step.png)
 
 ## Saving Your File
 

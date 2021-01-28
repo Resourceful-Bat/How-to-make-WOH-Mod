@@ -1,37 +1,27 @@
-<h1>Introduction</h1>
+# Introduction
+World of Horror Modding allows users to add extra events, characters, etc. to their World of Horror gaming experience. While there are several different things you can add, we will stick with a custom event for now. Furthermore, this will assume that you are using Windows 10 and have World of Horror on your PC.
 
-<p>World of Horror Modding allows users to add extra events, characters, etc. to their World of Horror gaming experience. While there are several different things you can add, we will stick with a custom event for now. Furthermore, this will assume that you are using Windows 10 and have World of Horror on your PC.</p>
+# Steps
 
-<h1>Steps</h1>
+## Create a Text Document
 
-<h2>Create a Text Document</h2>
+* Right click on your screen and create a new text document. Name it however you wish, but be sure to keep it relevant to what type of event you are going for.
 
-<ul>
-<li>Right click on your screen and create a new text document. Name it however you wish, but be sure to keep it relevant to what type of event you are going for.</li>
-</ul>
+## Editing Your Document
 
-<h2>Editing Your Document</h2>
+* Fill in the appropriate parameters
 
-<ul>
-<li>Fill in the appropriate parameters</li>
-</ul>
+## Saving Your File
 
-<h2>Saving Your File</h2>
+* **It is important to save the file as a ".ito" file instead of a ".txt" file.** Your mod won't load at all if you do not change the file extension to ".ito" . Don't worry about editing the file later. You can still edit the file later if the file is a ".ito" file.
 
-<ul>
-<li><strong>It is important to save the file as a ".ito" file instead of a ".txt" file.</strong> Your mod won't load at all if you do not change the file extension to ".ito" . Don't worry about editing the file later. You can still edit the file later if the file is a ".ito" file.</li>
-</ul>
+## Where to Save
 
-<h2>Where to Save</h2>
+* For a windows user, follow this path to get to where you will save your mods.
+*  C:\Users\ADMIN\AppData\Local\wohgame
+*  In place of ADMIN should be your username.
+*  Now that you are in the "wohgame" folder, create a new folder called "custom". This will house all of the mods you are going to make.
 
-<ul>
-<li>For a windows user, follow this path to get to where you will save your mods.</li>
-<li>C:\Users\ADMIN\AppData\Local\wohgame</li>
-<li>In place of ADMIN should be your username.</li>
-<li>Now that you are in the "wohgame" folder, create a new folder called "custom". This will house all of the mods you are going to make.</li>
-</ul>
+# And You're Done!
 
-<h1>And You're Done!</h1>
-
-<p>Congratulations! You've now created your first mod for World of Horror! For more info on creating mods, join the World of Horror Discord by clinking this <a href="https://t.co/3Hu11wPe1y?amp=1/" title="Discord link">link</a> or by typing https://t.co/3Hu11wPe1y?amp=1/ into a web browser.</p>
-
+Congratulations! You've now created your first mod for World of Horror! For more info on creating mods, join the World of Horror Discord by clinking this [link](https://t.co/3Hu11wPe1y?amp=1/ "Discord link") or by typing https://t.co/3Hu11wPe1y?amp=1/ into a web browser.

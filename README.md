@@ -33,5 +33,5 @@
 
 <h1>And You're Done!</h1>
 
-<p>Congratulations! You've now created your first mod for World of Horror! For more info on creating mods, join the World of Horror Discord by clinking this <a href="https://t.co/3Hu11wPe1y?amp=1/" title="Discord link">link</a></p>
+<p>Congratulations! You've now created your first mod for World of Horror! For more info on creating mods, join the World of Horror Discord by clinking this <a href="https://t.co/3Hu11wPe1y?amp=1/" title="Discord link">link</a> or by typing https://t.co/3Hu11wPe1y?amp=1/ into a web browser.</p>
 

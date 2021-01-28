@@ -1,5 +1,5 @@
 # Introduction
-World of Horror Modding allows users to add extra events, characters, etc. to their World of Horror gaming experience. While there are several different things you can add, we will stick with a custom event for now. Furthermore, we will assume that you are using Windows 10 and have World of Horror on your PC.  
+World of Horror Modding allows users to add extra events, characters, etc. to their World of Horror gaming experience. While there are several different things you can add, we will stick with a custom event for now. Furthermore, we will assume that you are using Windows 10 and have World of Horror on your PC.    
 Also note that "string" just means to input your changes in the "" within your mod
 
 # Steps

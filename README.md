@@ -18,7 +18,7 @@ Fill in the appropriate parameters
 * **location** - The place where you event occurs (string, use these: downtown, school, hospital, seaside, forest, mansion, village, apartment, ithotu, athyola, gozu, atorasu)
 * **options** - The amount of options available to the player (string, "1", "2" or "3")
 
-* **image** = Path to the image file (string, relative, leave "" for a generic location-based image)
+* **image** = Path to the image file (string, leave "" if your image is not in a subfolder of the "custom" folder)
 
 
 * **optiona/optionb/optionc** - Your options. Keep is short because of space on screen (string)

@@ -24,8 +24,10 @@
 
 <h2>Where to Save</h2>
 
-<p>For a windows user, follow this path to get to where you will save your mods.
-* C:\Users\ADMIN\AppData\Local\wohgame
-* In place of ADMIN should be your username.
-* Now that you are in the "wohgame" folder, create a new folder called "custom". This will house all of the mods you are going to make.</p>
+<ul>
+<li>For a windows user, follow this path to get to where you will save your mods.</li>
+<li>C:\Users\ADMIN\AppData\Local\wohgame</li>
+<li>In place of ADMIN should be your username.</li>
+<li>Now that you are in the "wohgame" folder, create a new folder called "custom". This will house all of the mods you are going to make.</li>
+</ul>
 
